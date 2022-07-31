@@ -1,0 +1,86 @@
+/* font-family: 'Lexend Deca', sans-serif;
+font-family: 'Big Shoulders Display', cursive; */
+body{
+    background: hsl(0, 0%, 95%);
+}
+.box{
+    display: flex;
+    width: 70%;
+    margin-top: 10%;
+    margin-left: 13%;
+    height: 80%;
+}
+.first{
+   background-color: hsl(31, 77%, 52%);
+   flex: 1;
+}
+.second{
+    flex: 1;
+    background-color: hsl(184, 100%, 22%);
+}
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+    color:  hsl(0, 0%, 95%);
+    margin-left: 10%;
+}
+.third{
+    flex: 1;
+    background-color: hsl(179, 100%, 13%)
+    ;
+}
+.img1 img{
+    margin: 10%;
+}
+.sedan{
+    font-size: 15px;
+    color: hsla(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca', sans-serif;
+    margin-left: 10%;
+}
+.one{
+border-radius: 50px;
+background-color: hsl(0, 0%, 95%); 
+margin-left: 10%;
+margin-top: 50px;
+width: 40%;
+height: 10%;
+border: none;
+text-decoration: none;
+}
+.two{
+    border-radius: 50px;
+    background-color: hsl(0, 0%, 95%); 
+    margin-left: 10%;
+    margin-top: 50px;
+    width: 40%;
+    height: 10%;
+    border: none;
+    }
+    .three{
+        border-radius: 50px;
+        background-color: hsl(0, 0%, 95%); 
+        margin-left: 10%;
+        margin-top: 50px;
+        width: 40%;
+        height: 10%;
+        border: none;
+        }
+.learn{
+    width: 100%;
+    color: hsl(31, 77%, 52%);
+    text-decoration: none;
+
+}
+.more{
+color:  hsl(184, 100%, 22%);
+width: 100%;
+text-decoration: none;
+}
+.learner{
+color: hsl(179, 100%, 13%);
+width: 100%;
+
+}
+a{
+    text-decoration: none;
+}
